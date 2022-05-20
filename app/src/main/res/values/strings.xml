@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">7minsWorkOutApp</string>
+    <string name="start">START</string>
+    <string name="start_image">start image</string>
+    <string name="get_ready_for">GET READY FOR</string>
+    <string name="image">check sign</string>
+    <string name="end">END</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="goodbye_message">You have completed the workout!</string>
+    <string name="finish">FINISH</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+    <string name="message">This will stop your workout. You\'ve come this far, are you sure you want to quit?</string>
+    <string name="confirmation">Are you sure?</string>
+</resources>
